@@ -12,6 +12,7 @@ https://www.zhihu.com/question/19805529/answer/157315243
 + :question: 股息
 + :question: 分红
 + :question: 交易量最大原则
++ :question: 集合竞争
 
 
 ## 股票是如何定价的
