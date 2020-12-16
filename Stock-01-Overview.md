@@ -13,6 +13,9 @@ https://www.zhihu.com/question/19805529/answer/157315243
 + :question: 分红
 + :question: 交易量最大原则
 + :question: 集合竞价
++ :question: 英式式拍卖 (English auction)
++ :question: 荷兰式排名（Dutch auction)
++ :question: 复式拍卖 (double auction)
 
 
 ## 股票是如何定价的
