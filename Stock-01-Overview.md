@@ -19,5 +19,6 @@ https://www.zhihu.com/question/19805529/answer/157315243
 
 
 ## 股票是如何定价的
++ 股票刚上市时的股价是怎么决定的(一级市场): https://www.zhihu.com/question/19863904/answer/13480889
 
 ## 影响股票的价格因素
