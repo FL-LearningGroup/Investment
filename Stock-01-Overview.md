@@ -57,3 +57,8 @@ https://www.zhihu.com/question/19805529/answer/157315243
 + 市场体制 ---> 属性市场体制
 
 ## 会计基础
++ :bar_chart: 利润表
++ :bar_chart: 资产负债表
++ :bar_chart: 现金流量表
+**Note: 这三张会计报表便是公司运营情况最直观的反应，也是常说的公司“基本面”。**
+
