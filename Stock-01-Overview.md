@@ -111,3 +111,5 @@ https://www.zhihu.com/question/19805529/answer/157315243
 
 ### K线图
 K线图只是股票价格走势和交易情况的反应。
+
+![KLine](https://github.com/FL-LearningGroup/Investment/blob/master/Img-Stock-KLine.jpg)
