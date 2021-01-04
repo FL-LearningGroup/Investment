@@ -1,6 +1,8 @@
 # History-wiki
 https://en.wikipedia.org/wiki/Stock_market
 
+# 什么是股票?
+
 # 股票的价格是怎么得出来的？
 https://www.zhihu.com/question/19805529/answer/157315243
 
