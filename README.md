@@ -1,6 +1,9 @@
 # Investment
 Record notes during learn investment.
 
+# Tushare大数据开放社区
+https://waditu.com/
+
 # 货币
 + 货币给风险定价叫做保险，期货
 + 货币给企业定价叫做股票，债卷
